@@ -1,6 +1,6 @@
 Este repositório contém um jogo de perguntas e respostas,  'Quebra cuca', desenvolvido por _[Oryange Dafny Strifezze](https://www.linkedin.com/in/oryangestrifezze/)_  :rocket:
 
-## Aplicação desenvolvida com as habilidades de :white_check_mark:
+## Aplicação desenvolvida com as habilidades de:
 
 - [x] 1: _React_
 - [x] 2: _React-Redux_
